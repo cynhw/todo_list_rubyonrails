@@ -42,7 +42,7 @@ group :development do
   gem 'web-console', '~> 2.0'
 
 group :development, :test do
-	gem 'rspec', '~> 3.4'
+	 gem 'rspec-rails', '~> 3.0'
 end
 
 group :test do
